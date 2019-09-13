@@ -7,12 +7,11 @@ URL : https://flushpot1125.github.io/js13kgames_findthechangedback/
 
 1. Access the URL and Enter into VR  
 
-2. Grab right controller and select "press here for start" by main trigger button.    
-![screenshot1](./pictures_forReadme/screenshot1.jpg)    
+2. Grab right controller and select "press here for start" by main trigger button. 
+![screenshot1](./pictures_forReadme/sc1.jpg)
 
-3. The color of one sphere is changing. Duration is 10sec.    
-  
-![screenshot2](./pictures_forReadme/screenshot2.jpg)  
+3. The color of one sphere is changing. Duration is 10sec.  
+![screenshot2](./pictures_forReadme/sc2.jpg)  
 
 4. Select the changed sphere by main trigger button.
 
